@@ -5,7 +5,7 @@ At the foundation of this lab is a virtual machine running Windows Server 2022, 
 
 Throughout this lab, I will implement and manage Group Policy Objects (GPOs) to enforce organizational policies, configure system settings, and control user environments, mirroring real enterprise practices. Additionally, I will create and manage users, security groups, and computer objects within Active Directory to simulate role-based access control and organizational structure.
 
-To complete the environment, multiple Windows 10 Enterprise virtual machines will be deployed and joined to the domain. This will allow for testing authentication, policy application, and centralized management from the domain controller.
+To complete the environment, multiple Windows 11 Enterprise virtual machines will be deployed and joined to the domain. This will allow for testing authentication, policy application, and centralized management from the domain controller.
 
 This lab serves as a practical foundation for developing skills in:
 
